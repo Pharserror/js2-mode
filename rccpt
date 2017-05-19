@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: reactClassCompomentPropTypes
+# key: rccpt 
+# --
+  static propTypes = {
+    $0
+  };

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: componentSetState
+# key: sst
+# --
+this.setState($0);

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: reactStatelessPropTypes
+# key: rspt
+# --
+$1.propTypes = {
+  $0
+};

@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: componentSetStateFunc
+# key: ssf
+# --
+this.setState((state, props) => {
+  return {
+    $0
+  }
+});

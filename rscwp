@@ -1,0 +1,17 @@
+# -*- mode: snippet -*-
+# name: reactStatelessComponentWithProps
+# key: rscwp
+# --
+import React, { PropTypes } from 'react';
+
+const $1 = props =>
+  <div>
+    $0
+  </div>
+;
+
+$1.propTypes = {
+  $0
+};
+
+export default $1;
